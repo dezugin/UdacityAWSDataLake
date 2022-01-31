@@ -26,6 +26,10 @@ Using the song and log datasets, i've created a star schema optimized for querie
     artist_id, name, location, lattitude, longitude
 - time - timestamps of records in songplays broken down into specific units
     start_time, hour, day, week, month, year, weekday
+    
+    
+Star schema:
+![Star Schema](Song_ERD.png?raw=true "Star Schema")
 
 ## Files in this project
 
